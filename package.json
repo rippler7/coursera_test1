@@ -1,0 +1,22 @@
+{
+  "name": "coursera_test1",
+  "version": "1.0.0",
+  "description": "coursera_git_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rippler7/coursera_test1.git"
+  },
+  "keywords": [
+    "coursera"
+  ],
+  "author": "Jeremy Ancog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rippler7/coursera_test1/issues"
+  },
+  "homepage": "https://github.com/rippler7/coursera_test1#readme"
+}
